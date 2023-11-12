@@ -1,4 +1,4 @@
 """ hello world script
 """
-print("Hello world")
-print("Hello world")
+print("Alternative")
+print("Alternative")
