@@ -2,3 +2,4 @@
 """
 print("Approach")
 print("Approach")
+CAMEL_CASE = "bonjour"
